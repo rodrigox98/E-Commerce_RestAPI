@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce_RestAPI", "E-Commerce_RestAPI\E-Commerce_RestAPI.csproj", "{89997B9D-ACC9-4675-BDAD-EB9FE6E5EF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89997B9D-ACC9-4675-BDAD-EB9FE6E5EF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89997B9D-ACC9-4675-BDAD-EB9FE6E5EF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89997B9D-ACC9-4675-BDAD-EB9FE6E5EF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89997B9D-ACC9-4675-BDAD-EB9FE6E5EF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD872FF6-F4C0-40CC-B6E0-5E3E277961B2}
+	EndGlobalSection
+EndGlobal
