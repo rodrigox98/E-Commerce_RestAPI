@@ -33,6 +33,7 @@ namespace E_Commerce_RestAPI
            
             //Repositorio
             services.AddScoped<IUsuario, UsuarioRepositorio>();
+            services.AddScoped<IProduto, ProdutoRepositorio>();
 
             //Controladores
             services.AddCors();
