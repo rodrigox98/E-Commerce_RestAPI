@@ -14,8 +14,10 @@ namespace E_Commerce_RestAPI.Src.Models
         [Key] //Define a primary key
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)] //Define que o atributo ID será auto-incrementável
         public int Id { get; set; }
+        public string Email { get; set; }
         public string Nome { get; set; }
         public string Senha { get; set; }
+
 
 
         [JsonIgnore, InverseProperty("Comprador")]
